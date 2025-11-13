@@ -11,18 +11,18 @@
 */
 
 let maze = [
-  "--x---------x--xx----",
-  "--xx---xx----xx--xx---",
-  "------------x---------",
-  "------------x---------",
-  "------------x---------",
-  "---------------------",
-  "----------------------",
-  "----------------------",
-  "----------------------",
-  "----------------------",
-  "----------------------",
-  "----------------------",
+  "x-xxxxxxxxxxxxxxxxx-",
+  "x---xx----------xxxxx",
+  "x-x-xx-xx-x-xxx-xxxxx",
+  "x-x-xx-xx-x-xxxoxxxxx",
+  "x-x----xx-x-xxxxxxxxx",
+  "x-xxxxxxx-x-----txxxx",
+  "xtxxx-----xxx----xxxx",
+  "xxxxx-xx------xx--xxx",
+  "xxxxx-xx-xxxx-xxx--xx",
+  "xxxxx-xx-xxxx----xxxx",
+  "xxxxx----xxxxxxx----x",
+  "xxxxxxxxxxxxxxxxxxx-x",
 ];
 let scene;
 /* Challenge 2
